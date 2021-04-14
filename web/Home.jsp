@@ -174,7 +174,7 @@ and open the template in the editor.
                             <div class="media">
                                 <div class="share-button">
                                     <span>Share Me</span>
-                                    <a href="#" ><i class="fa fa-facebook-f"></i></a>
+                                    <a href="http://facebook.com"><i class="fa fa-facebook-f"></i></a>
                                     <a href="#" ><i class="fa fa-twitter"></i></a>
                                     <a href="#" ><i class="fa fa-instagram"></i></a>
                                     <a href="#" ><i class="fa fa-linkedin-in"></i></a>
